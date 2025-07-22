@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0f0f0;
+}
+
+#container {
+  background: #ababab;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+  margin-top: 50px;
+}
+
+#diceImages img {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  object-fit: contain;
+  box-shadow: 0 0 5px;
+}

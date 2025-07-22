@@ -1,0 +1,23 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+#mydiv{
+    text-align: center;
+}
+
+.Button{
+    font-size:20px;
+    padding:10px 20px;
+    color:white;
+    background-color:rgb(172, 191, 255);
+    border-radius:5px;
+    cursor: pointer;
+}
+
+.Button:hover{
+    background-color: rgb(20, 20, 255);
+}
+

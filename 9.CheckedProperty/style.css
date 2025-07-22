@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#mysubmit{
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(255, 127, 127);
+    border-radius: 5px;
+    cursor:pointer;
+    transition: background-color 0.25;
+
+}
+#mysubmit:hover{
+    background-color: rgb(255, 0, 0);
+}
+.p{
+    font-size: 2em;
+}

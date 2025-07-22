@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+
+}
+#mylabel1{
+    font-size: 30px;
+}
+
+#mybutton{
+    font-size: 2em;
+    padding: 4px 90px;
+    color: white;
+    background-color: rgb(175, 179, 255);
+    border-radius: 5px;
+    transition: background-color 0.25;
+    cursor:pointer;
+}
+
+#mybutton:hover{
+    background-color: blue;
+}

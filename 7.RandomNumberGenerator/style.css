@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+}
+#mylabel{
+    font-size: 30em;
+}
+#mybutton{
+    font-size: 4em;
+    padding: 4px 90px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(255, 106, 240);
+    cursor: pointer;
+    transition: background-color 0.25;
+
+
+}
+
+#mybutton:hover{
+    background-color: rgb(150, 49, 120);
+}
